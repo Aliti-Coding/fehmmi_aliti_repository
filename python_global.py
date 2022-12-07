@@ -1,1 +1,2 @@
-hello_globalist = "global"
+hello_globalist = "global we change something"
+
